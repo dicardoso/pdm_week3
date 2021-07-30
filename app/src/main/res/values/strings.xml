@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Semana 3</string>
+    <string name="header">Fez a atividade da semana?</string>
+    <string name="no_sw">Não</string>
+    <string name="yes_sw">Sim</string>
+    <string name="yes_feedback">Esse merece um 10!!!</string>
+    <string name="no_feedback">Deixe de preguiça e vá fazer</string>
+</resources>
